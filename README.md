@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+### 🔭 I’m currently working on Dubrobskiy Syndicate Roleplay
+### 🎓 And i'am the main developer of the project
+### 🥇 Programming languages ​​that I know very well 
+### [3 Years] C# (GTANETWORK, .NET FRAMEWORK)
+### [4 Years] MySQL (MariaDB, MongoDb, PostgresSQL)
+### [3 Years] JavaScript/TypeScript (Vue 2-3, React, JQuery, RAGEMP Api )
+### [5 Years] GLUA/LUA (Garry's mod)
+### ✨Or simply, middle software enginner
 <!--
 **koltrbtw/koltrbtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
