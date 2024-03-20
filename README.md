@@ -7,7 +7,7 @@ Software Engineer
 He began his journey as a virgin. From the creation of simple modifications of the game, to full-fledged large modifications that radically changed everything. At the moment I have been programming for 5 years, and I have 3 years of commerce behind me
 
 * 🌍  I'm based in Veliky Novgorod
-* ✉️  You can contact me at [me@koltrbtw](mailto:me@koltrbtw)
+* ✉️  You can contact me at [me@koltrbtw](mailto:me@koltrbtw.ru)
 * 🚀  I'm currently working on [Dubrovskiy Syndicate Roleplay](http://zheki444.ru)
 * 🧠  I'm learning Next 3, ASP.NET
 
