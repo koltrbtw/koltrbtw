@@ -8,8 +8,8 @@ He began his journey as a virgin. From the creation of simple modifications of t
 
 * 🌍  I'm based in Veliky Novgorod
 * ✉️  You can contact me at [me@koltrbtw.ru](mailto:me@koltrbtw.ru)
-* 🚀  I'm currently working on [Dubrovskiy Syndicate Roleplay](http://zheki444.ru)
-* 🧠  I'm learning Next 3, ASP.NET
+* 🚀  I'm currently working on [1Games](https://1games.ru/)
+* 🧠  I'm learning Node JS
 
 ### Skills
 
